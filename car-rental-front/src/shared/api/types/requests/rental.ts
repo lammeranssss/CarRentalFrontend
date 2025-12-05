@@ -19,5 +19,3 @@ export interface UpdateRentalRequest {
   finalMileage: number;
   finalPrice: number;
 }
-
-

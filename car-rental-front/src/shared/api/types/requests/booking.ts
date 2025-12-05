@@ -10,5 +10,3 @@ export interface CreateBookingRequest {
 export interface CancelBookingRequest {
   reason?: string;
 }
-
-

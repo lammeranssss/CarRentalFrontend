@@ -12,5 +12,3 @@ export interface CustomerResponse extends BaseResponse {
   loyaltyLevel: number;
   completedBookingsCount: number;
 }
-
-

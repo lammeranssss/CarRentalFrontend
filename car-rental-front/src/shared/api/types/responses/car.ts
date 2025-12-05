@@ -14,5 +14,3 @@ export interface CarResponse extends BaseResponse {
   isAvailable: boolean;
   requiresMaintenance: boolean;
 }
-
-

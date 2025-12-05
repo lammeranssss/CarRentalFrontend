@@ -3,5 +3,3 @@ export interface CreateLocationRequest {
   address: string;
   phone: string;
 }
-
-

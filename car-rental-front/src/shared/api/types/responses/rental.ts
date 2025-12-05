@@ -15,5 +15,3 @@ export interface RentalResponse extends BaseResponse {
   isActive: boolean;
   hasExceededMileageLimit: boolean;
 }
-
-

@@ -13,5 +13,3 @@ export interface BookingResponse extends BaseResponse {
   isActive: boolean;
   canBeCancelled: boolean;
 }
-
-

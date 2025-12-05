@@ -8,5 +8,3 @@ export interface LocationResponse extends BaseResponse {
   totalCarsCount: number;
   canAcceptReturns: boolean;
 }
-
-

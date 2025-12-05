@@ -11,5 +11,3 @@ export interface CreateCarRequest {
   mileage?: number;
   carStatus: CarStatus;
 }
-
-

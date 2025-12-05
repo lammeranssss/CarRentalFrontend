@@ -6,5 +6,3 @@ export interface CreateCustomerRequest {
   address: string;
   licenseNumber: string;
 }
-
-
